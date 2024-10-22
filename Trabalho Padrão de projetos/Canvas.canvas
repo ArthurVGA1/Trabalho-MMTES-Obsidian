@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"1da0fdf2723ebf06","type":"text","text":"[[Escopo do projeto]]","x":-20,"y":-340,"width":200,"height":60,"color":"6"},
+		{"id":"541569a58f83e657","x":-500,"y":-340,"width":400,"height":400,"type":"file","file":"Coisas a fazer.md"},
+		{"id":"0c072c74febbe0ca","type":"file","file":"Requisitos.md","x":280,"y":-340,"width":400,"height":400},
+		{"id":"2b000ef9a6764b55","type":"text","text":"[[Singleton]]","x":-45,"y":-500,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"430798bc2485f35d","fromNode":"1da0fdf2723ebf06","fromSide":"right","toNode":"0c072c74febbe0ca","toSide":"left"},
+		{"id":"1e4d78361b1cfbf8","fromNode":"1da0fdf2723ebf06","fromSide":"left","toNode":"541569a58f83e657","toSide":"right"},
+		{"id":"874ef2b5c81e10c7","fromNode":"1da0fdf2723ebf06","fromSide":"top","toNode":"2b000ef9a6764b55","toSide":"bottom"}
+	]
+}
