@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "450d824e267fed0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "73b1bac00fde91b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "756b0f6e34579437",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Trabalho Padrão de projetos/Diagram.svg"
+              },
+              "icon": "lucide-image",
+              "title": "Diagram"
+            }
+          },
+          {
+            "id": "22aa2f89c4382346",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trabalho Padrão de projetos/Diagrama de classe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diagrama de classe"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5bb0706a865c5c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "736d2eaf9d5b51bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4c24f8815561e7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "5c64226c9b6d09a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "05b12312115cc105",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224.5
+  },
+  "right": {
+    "id": "de7217d7d1e2f2f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0724c0eaddaacda4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2969410a7516d27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Trabalho Padrão de projetos/Escopo do projeto.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Escopo do projeto"
+            }
+          },
+          {
+            "id": "0a08ac5bf1c528c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Trabalho Padrão de projetos/Escopo do projeto.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Escopo do projeto"
+            }
+          },
+          {
+            "id": "b9e194520e463e4f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b3b54d4e391c245f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Trabalho Padrão de projetos/Escopo do projeto.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Escopo do projeto"
+            }
+          },
+          {
+            "id": "a35af2c09f3640d1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "c4c24f8815561e7f",
+  "lastOpenFiles": [
+    "Trabalho Padrão de projetos/Diagram.svg",
+    "Trabalho Padrão de projetos/diagrama.md",
+    "Trabalho Padrão de projetos/Diagram.svg.xml",
+    "Trabalho Padrão de projetos/Diagrama de classe.md",
+    "Trabalho Padrão de projetos/To do.md",
+    "Untitled Diagram.svg",
+    "Trabalho Padrão de projetos/Escopo do projeto.md",
+    "Trabalho Padrão de projetos/Canvas.canvas",
+    "Trabalho Padrão de projetos/Untitled Diagram.svg",
+    "Sem título",
+    "Requisitos.md",
+    "Canvas.canvas",
+    "Escopo do projeto.md",
+    "Coisas a fazer.md"
+  ]
+}

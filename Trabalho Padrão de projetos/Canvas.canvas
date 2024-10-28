@@ -1,8 +1,8 @@
 {
 	"nodes":[
 		{"id":"1da0fdf2723ebf06","type":"text","text":"[[Escopo do projeto]]","x":-20,"y":-340,"width":200,"height":60,"color":"6"},
-		{"id":"541569a58f83e657","x":-500,"y":-340,"width":400,"height":400,"type":"file","file":"Coisas a fazer.md"},
-		{"id":"0c072c74febbe0ca","type":"file","file":"Requisitos.md","x":280,"y":-340,"width":400,"height":400},
+		{"id":"541569a58f83e657","type":"file","file":"Trabalho Padrão de projetos/To do.md","x":-500,"y":-340,"width":400,"height":400},
+		{"id":"0c072c74febbe0ca","type":"file","file":"Trabalho Padrão de projetos/Requisitos.md","x":280,"y":-340,"width":400,"height":400},
 		{"id":"2b000ef9a6764b55","type":"text","text":"[[Singleton]]","x":-45,"y":-500,"width":250,"height":60}
 	],
 	"edges":[
